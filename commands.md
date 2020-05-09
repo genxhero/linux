@@ -1,0 +1,1 @@
+pwd - Print Work Directory, shows the current working directory.
