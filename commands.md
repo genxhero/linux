@@ -13,3 +13,7 @@ lsblk - Lists all block devices
 mount - Mount a device I gather?
 
 df - Displays information about disk space on your system.
+
+uname - Get name, version, and other details about your system
+
+ps -
