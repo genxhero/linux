@@ -12,4 +12,4 @@ lsblk - Lists all block devices
 
 mount - Mount a device I gather?
 
-df - 
+df - Displays information about disk space on your system.
